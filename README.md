@@ -6,9 +6,6 @@ tend to make fast and reliable software, with little or no
 supervision. I have strong analytical and problem-solving
 skills which allow me to be creative and fastest learner.
 
-## Contributing
-- [Munyaneza armel](https://github.com/munyanezaarmel)
-
 ## 🛠 Skills
 Javascript, HTML, CSS, PHP, ReactJs, NodeJs and Software Engineer
 
@@ -68,3 +65,5 @@ This project proposes a car accident alert system that can automatically detect 
     - A Google Maps link to the accident location (using latitude and longitude data retrieved from a GPS module or smartphone; not simulated in Tinkercad).
 - The system is configured to transmit data continuously to a cloud platform like Thingspeak for data logging and visualization.
 
+## Contributing
+- [Munyaneza armel](https://github.com/munyanezaarmel)
