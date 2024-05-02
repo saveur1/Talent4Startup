@@ -6,6 +6,9 @@ tend to make fast and reliable software, with little or no
 supervision. I have strong analytical and problem-solving
 skills which allow me to be creative and fastest learner.
 
+## Contributing
+- [Munyaneza armel](https://github.com/munyanezaarmel)
+
 ## 🛠 Skills
 Javascript, HTML, CSS, PHP, ReactJs, NodeJs and Software Engineer
 
