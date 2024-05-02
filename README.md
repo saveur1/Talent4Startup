@@ -7,8 +7,8 @@ supervision. I have strong analytical and problem-solving
 skills which allow me to be creative and fastest learner.
 
 ## 🛠 Skills
-Javascript, HTML, CSS, PHP, ReactJs, NodeJs and Software Engineer
-
+- **Web Development:** Javascript, HTML, CSS, PHP, ReactJs, NodeJs
+- **Software Engineering:** Software Design, System Architecture and Agile Methodologies
 
 ## Education
 
